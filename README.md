@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [File Encryptor](https://github.com/deepesh611/Eagle-Encryptor.git)
-- [A Basic Web-Dev Project with HTML & CSS](https://github.com/Codeguruu03/Codeguruu03.github.io.git)
+- [A Basic Web-Dev Practice Project with HTML & CSS](https://github.com/Codeguruu03/Codeguruu03.github.io.git)
 
 
 
