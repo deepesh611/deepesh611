@@ -31,10 +31,9 @@ Here are some ideas to get you started:
 
 <h2> 🤳 Connect with me:</h2>
 
-<!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-[<img align="left" alt="Deepesh | LinkedIn" width="22px" src="images/linkedin.png" />][linkedin]
-[<img align="left" alt="Deepesh | Twitter" width="22px" src="images/twitter.png" />][twitter]
-[<img align="left" alt="Deepesh | Instagram" width="22px" src="images/instagram.gif" />][instagram]
+[<img align="left" alt="Deepesh | LinkedIn" width="30px" src="images/linkedin.gif" />][linkedin]
+[<img align="left" alt="Deepesh | Twitter" width="30px" src="images/twitter.gif" />][twitter]
+[<img align="left" alt="Deepesh | Instagram" width="30px" src="images/instagram.gif" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
 <!--[youtube]: https://www.youtube.com/c/joshmadakor-->
