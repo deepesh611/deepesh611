@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="Deepesh | Twitter" width="30px" src="images/twitter.gif" />][twitter]
 [<img align="left" alt="Deepesh | Instagram" width="30px" src="images/instagram.gif" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: https://twitter.com/DeepeshPat65731
 <!--[youtube]: https://www.youtube.com/c/joshmadakor-->
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[instagram]: https://www.instagram.com/_deepesh_v.p/?next=%2F
+[linkedin]: https://www.linkedin.com/in/deepesh-patil-103a87258/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
