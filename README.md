@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1>Hi, I'm Deepesh! </h1>
+<h1>Hi, I'm Deepesh! </h1>  :wave:
 
 <h2>👨‍💻 My Projects:</h2>
 
