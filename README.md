@@ -22,7 +22,7 @@
 [![deepesh611's GitHub Topics Over Time](https://stats.quine.sh/deepesh611/topics-over-time?theme=dark)](https://github.com/deepesh611)
 [![deepesh611's GitHub Languages Over Time](https://stats.quine.sh/deepesh611/languages-over-time?theme=dark)](https://github.com/deepesh611)
 -->
-## 📫 How to reach me:
+## 📫 Let's Chat...:
 
 [<img align="left" alt="Deepesh | LinkedIn" width="30px" src="images/linkedin.gif" />][linkedin]
 [<img align="left" alt="Deepesh | Twitter" width="30px" src="images/twitter.gif" />][twitter]
