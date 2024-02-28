@@ -33,8 +33,8 @@ Add your certifications here -->
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/e17f4fed-9cb3-4630-9daa-ae6eb46f3a55" alt="MySQL" width="50">
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/81a6a8ce-bf48-4aec-aa8c-a73191327cd8" alt="Java" width="50">
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/c7fdf2ed-6c7c-4115-9184-756277e1ff4a" alt="Terminal" width="50">
-<img src="https://github.com/deepesh611/deepesh611/assets/123585104/6aaf4e9b-8484-4f89-83ce-6ededaccc168" alt="C++" width="50">
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/222f08c5-f88c-43a6-9b5f-e5aa1cb16439" alt="C#" width="50">
+<img src="https://github.com/deepesh611/deepesh611/assets/123585104/6aaf4e9b-8484-4f89-83ce-6ededaccc168" alt="C++" width="50">
 <br>
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/926b95f2-5b19-41c9-bda3-82973a7798da" alt="HTML" width="50">
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/49828e87-9f89-40fe-8b6d-8e626987808d" alt="CSS" width="50">
