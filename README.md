@@ -29,9 +29,9 @@ Add your certifications here -->
 -->
 ## 📫 Let's Chat...
 
-[<img align="left" alt="Deepesh | LinkedIn" width="30px" src="images/linkedin.gif" target=_blank />][linkedin]
-[<img align="left" alt="Deepesh | Twitter" width="30px" src="images/twitter.gif" target=_blank />][twitter]
-[<img align="left" alt="Deepesh | Instagram" width="30px" src="images/instagram.gif" target=_blank />][instagram]
+[<img align="left" alt="Deepesh  target=_blank | LinkedIn" width="30px" src="images/linkedin.gif" />][linkedin]
+[<img align="left" alt="Deepesh  target=_blank | Twitter" width="30px" src="images/twitter.gif" />][twitter]
+[<img align="left" alt="Deepesh  target=_blank | Instagram" width="30px" src="images/instagram.gif"  />][instagram]
 
 [twitter]: https://twitter.com/DeepeshPat65731
 [instagram]: https://www.instagram.com/_deepesh_v.p/?next=%2F
