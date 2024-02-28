@@ -5,14 +5,13 @@
 
 # Hi there, I'm Deepesh! :wave:
 
-## 👨‍💻 My Projects:
+## 👨‍💻 Some of my Projects:
 
-- [File Encryptor](https://github.com/deepesh611/Eagle-Encryptor)
-- [Basic Web-Dev Practice Project with HTML & CSS](https://github.com/Codeguruu03/Codeguruu03.github.io)
+- Eagle Encryptor - A desktop application that helps in encrypting the data/content inside it. It supports multiple file formats such as `.xlsx`, `.docx`, `.jpg`, etc. [Know More...](https://github.com/deepesh611/Eagle-Encryptor)
+- Travel Buddy - It was a practice project to try out frontend using `HTML`, `CSS`, and `JS`. <br>[Know More...](https://github.com/Codeguruu03/Codeguruu03.github.io)
 
-## Certifications
-
-<!-- Add your certifications here -->
+<!--## Certifications
+Add your certifications here -->
 
 ## 📊 My Stats
 
