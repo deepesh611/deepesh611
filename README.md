@@ -27,6 +27,25 @@ Add your certifications here -->
 [![deepesh611's GitHub Topics Over Time](https://stats.quine.sh/deepesh611/topics-over-time?theme=dark)](https://github.com/deepesh611)
 [![deepesh611's GitHub Languages Over Time](https://stats.quine.sh/deepesh611/languages-over-time?theme=dark)](https://github.com/deepesh611)
 -->
+
+## 🛠️ Languages & Tools
+<img src="https://github.com/deepesh611/deepesh611/assets/123585104/926929f9-5f48-4d24-a0b3-092ccd16b893" alt="python" width="50">
+<img src="https://github.com/deepesh611/deepesh611/assets/123585104/a4a62fc4-5604-4ba5-becb-b4e6dcd0b272" alt="MySQL" width="50">
+<img src="https://github.com/deepesh611/deepesh611/assets/123585104/81a6a8ce-bf48-4aec-aa8c-a73191327cd8" alt="Java" width="50">
+<img src="https://github.com/deepesh611/deepesh611/assets/123585104/c7fdf2ed-6c7c-4115-9184-756277e1ff4a" alt="Terminal" width="50">
+<img src="https://github.com/deepesh611/deepesh611/assets/123585104/926b95f2-5b19-41c9-bda3-82973a7798da" alt="HTML" width="50">
+<img src="https://github.com/deepesh611/deepesh611/assets/123585104/49828e87-9f89-40fe-8b6d-8e626987808d" alt="CSS" width="50">
+<img src="https://github.com/deepesh611/deepesh611/assets/123585104/8382ed33-d590-4c4f-9929-73e21c98fd4d" alt="JS" width="50">
+<img src="https://github.com/deepesh611/deepesh611/assets/123585104/d7236463-f559-4069-89c0-b9f5cde0fc7b" alt="React" width="50">
+<img src="https://github.com/deepesh611/deepesh611/assets/123585104/3ec75bfe-fd38-4de3-9c9f-10b04355b795" alt="Django" width="50">
+<img src="https://github.com/deepesh611/deepesh611/assets/123585104/51634b19-1793-48f1-b234-fafb7a18f858" alt="Node" width="50">
+<img src="https://github.com/deepesh611/deepesh611/assets/123585104/6aaf4e9b-8484-4f89-83ce-6ededaccc168" alt="C++" width="50">
+<img src="https://github.com/deepesh611/deepesh611/assets/123585104/222f08c5-f88c-43a6-9b5f-e5aa1cb16439" alt="C#" width="50">
+<!-- <img src="" alt="" width="50"> -->
+
+
+
+
 ## 📫 Let's Chat...
 
 [<img align="left" alt="Deepesh  target='_blank' | LinkedIn" width="30px" src="images/linkedin.gif" />][linkedin]
