@@ -15,13 +15,13 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 
 ## 👨‍💻 Some of my Projects:
 
-- ***Eagle Encryptor*** - A desktop application that helps in encrypting the data/content inside it and also supports multiple file formats such as `.xlsx`, `.docx`, `.jpg`, etc.
+- ***Eagle Encryptor*** - A desktop application that helps in encrypting the data/content inside it and also supports multiple file formats such as `.xlsx`, `.docx`, `.jpg`, etc.<br>
 [Know More...](https://github.com/deepesh611/Eagle-Encryptor)
 
 - ***Travel Buddy*** - It was a practice project to try out frontend using `HTML`, `CSS`, and `JS`. <br>
 [Know More...](https://github.com/Codeguruu03/Codeguruu03.github.io)
 
-- ***Function Reader***  - A simple Python program that lists all the functions present in a module/library along with its description, with an option to open its official documentation.
+- ***Function Reader***  - A simple Python program that lists all the functions present in a module/library along with its description, with an option to open its official documentation.<br>
 [Know More...](https://github.com/deepesh611/Function-Reader)
 
 <!--## Certifications
