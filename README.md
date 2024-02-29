@@ -15,7 +15,7 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 
 ## 👨‍💻 Some of my Projects:
 
-- ***Eagle Encryptor*** - A desktop application that helps in encrypting the data/content inside it. It supports multiple file formats such as `.xlsx`, `.docx`, `.jpg`, etc.
+- ***Eagle Encryptor*** - A desktop application that helps in encrypting the data/content inside it and also supports multiple file formats such as `.xlsx`, `.docx`, `.jpg`, etc.
 [Know More...](https://github.com/deepesh611/Eagle-Encryptor)
 
 - ***Travel Buddy*** - It was a practice project to try out frontend using `HTML`, `CSS`, and `JS`. <br>
