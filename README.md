@@ -5,7 +5,7 @@
 
 # Hi there, I'm Deepesh! :wave:
 
-I'm a software developer, very passionate for innovation and for pushing the boundaries of technology. My interests span across various domains, from 🛡️ cyber security and 🚁 drone technology to 🕶️ VR tech, and I'm always eager to explore the latest advancements in these fields.
+I'm a programmer, very passionate about innovation and pushing the boundaries of technology. My interests span across various domains, from 🛡️ cyber security and 🚁 drone technology to 🕶️ VR tech, and I'm always eager to explore the latest advancements in these fields.
 
 When I'm not immersed in code or working on projects, you'll often find me behind the wheel 🚗, enjoying the freedom of the open road, or indulging in gaming, whether indoors 🎮 or outdoors 🌳. I thrive on the thrill of virtual worlds and real-life adventures, constantly seeking new experiences to broaden my horizons.
 
