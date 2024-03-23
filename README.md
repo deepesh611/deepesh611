@@ -33,7 +33,7 @@ Add your certifications here -->
 
 ## 📊 My Stats
 
-[![deepesh611's GitHub Stats](https://stats.quine.sh/deepesh611/github?theme=dark)](https://github.com/deepesh611)
+[![deepesh611's GitHub Stats](https://stats.quine.sh/deepesh611/github?theme=dark)](https://github.com/deepesh611) 
 [![deepesh611's GitHub Dependencies](https://stats.quine.sh/deepesh611/dependencies?theme=dark)](https://github.com/deepesh611)
 <!--
 [![deepesh611's GitHub Topics Over Time](https://stats.quine.sh/deepesh611/topics-over-time?theme=dark)](https://github.com/deepesh611)
