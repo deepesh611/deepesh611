@@ -24,8 +24,9 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 - ***Travel Buddy*** - It was a practice project to try out frontend using `HTML`, `CSS`, and `JS`. <br>
 [Know More...](https://github.com/Codeguruu03/Codeguruu03.github.io)
 
-- ***Function Reader***  - A simple Python program that lists all the functions in a module/library along with its description, with an option to open its official documentation.<br>
+<!-- ***Function Reader***  - A simple Python program that lists all the functions in a module/library along with its description, with an option to open its official documentation.<br>
 [Know More...](https://github.com/deepesh611/Function-Reader)
+-->
 
 ## 🛠️ Languages & Tools
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/926929f9-5f48-4d24-a0b3-092ccd16b893" alt="python" width="30">
