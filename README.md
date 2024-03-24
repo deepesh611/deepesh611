@@ -27,19 +27,6 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 - ***Function Reader***  - A simple Python program that lists all the functions in a module/library along with its description, with an option to open its official documentation.<br>
 [Know More...](https://github.com/deepesh611/Function-Reader)
 
-
-<!--## Certifications
-Add your certifications here -->
-
-## 📊 My Stats
-
-[![deepesh611's GitHub Stats](https://stats.quine.sh/deepesh611/github?theme=dark)](https://github.com/deepesh611) 
-[![deepesh611's GitHub Dependencies](https://stats.quine.sh/deepesh611/dependencies?theme=dark)](https://github.com/deepesh611)
-<!--
-[![deepesh611's GitHub Topics Over Time](https://stats.quine.sh/deepesh611/topics-over-time?theme=dark)](https://github.com/deepesh611)
-[![deepesh611's GitHub Languages Over Time](https://stats.quine.sh/deepesh611/languages-over-time?theme=dark)](https://github.com/deepesh611)
--->
-
 ## 🛠️ Languages & Tools
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/926929f9-5f48-4d24-a0b3-092ccd16b893" alt="python" width="30">
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/e17f4fed-9cb3-4630-9daa-ae6eb46f3a55" alt="MySQL" width="30">
@@ -55,6 +42,19 @@ Add your certifications here -->
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/6e7dc304-2292-4d27-8ffc-0965bf7b2229" alt="Django" width="30">
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/51634b19-1793-48f1-b234-fafb7a18f858" alt="Node" width="30">
 <!-- <img src="" alt="" width="50"> -->
+
+<!--## Certifications
+Add your certifications here -->
+
+## 📊 My Stats
+
+[![deepesh611's GitHub Stats](https://stats.quine.sh/deepesh611/github?theme=dark)](https://github.com/deepesh611) 
+[![deepesh611's GitHub Dependencies](https://stats.quine.sh/deepesh611/dependencies?theme=dark)](https://github.com/deepesh611)
+<!--
+[![deepesh611's GitHub Topics Over Time](https://stats.quine.sh/deepesh611/topics-over-time?theme=dark)](https://github.com/deepesh611)
+[![deepesh611's GitHub Languages Over Time](https://stats.quine.sh/deepesh611/languages-over-time?theme=dark)](https://github.com/deepesh611)
+-->
+
 
 
 
