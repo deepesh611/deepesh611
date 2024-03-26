@@ -9,10 +9,21 @@ I'm a programmer, very passionate about innovation and pushing the boundaries of
 
 When I'm not immersed in code or working on projects, you'll often find me behind the wheel 🚗, enjoying the freedom of the open road, or indulging in gaming, whether indoors 🎮 or outdoors 🌳. I thrive on the thrill of virtual worlds and real-life adventures, constantly seeking new experiences to broaden my horizons.
 
-With a natural talent for building relationships and fostering teamwork, I bring to the table strong leadership 💼 and management skills honed through my experiences. Plus, I'm a huge anime, always on the lookout for captivating new series to dive into!
+With a natural talent for building relationships and fostering teamwork, I bring strong leadership 💼 and management skills honed through my experiences. I'm a huge anime, always looking for captivating new series to dive into!
 
 Let's connect and collaborate on exciting projects together! Feel free to reach out—I'm always up for a chat or to embark on new adventures in the world of technology. ✌️
 
+## 📊 My Stats
+
+![deepesh611's Stats](https://github-readme-stats.vercel.app/api?username=deepesh611&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+<!--
+![deepesh611's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepesh611&theme=highcontrast&hide_border=false)
+![deepesh611's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh611&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
+[![deepesh611's GitHub Stats](https://stats.quine.sh/deepesh611/github?theme=dark)](https://github.com/deepesh611) 
+[![deepesh611's GitHub Dependencies](https://stats.quine.sh/deepesh611/dependencies?theme=dark)](https://github.com/deepesh611)
+[![deepesh611's GitHub Topics Over Time](https://stats.quine.sh/deepesh611/topics-over-time?theme=dark)](https://github.com/deepesh611)
+[![deepesh611's GitHub Languages Over Time](https://stats.quine.sh/deepesh611/languages-over-time?theme=dark)](https://github.com/deepesh611)
+-->
 ## 👨‍💻 Some of my Projects:
 
 - ***Eagle Encryptor*** - A desktop application that helps in encrypting the data/content inside it and also supports multiple file formats such as `.xlsx`, `.docx`, `.jpg`, etc.<br>
@@ -47,14 +58,6 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 <!--## Certifications
 Add your certifications here -->
 
-## 📊 My Stats
-
-[![deepesh611's GitHub Stats](https://stats.quine.sh/deepesh611/github?theme=dark)](https://github.com/deepesh611) 
-[![deepesh611's GitHub Dependencies](https://stats.quine.sh/deepesh611/dependencies?theme=dark)](https://github.com/deepesh611)
-<!--
-[![deepesh611's GitHub Topics Over Time](https://stats.quine.sh/deepesh611/topics-over-time?theme=dark)](https://github.com/deepesh611)
-[![deepesh611's GitHub Languages Over Time](https://stats.quine.sh/deepesh611/languages-over-time?theme=dark)](https://github.com/deepesh611)
--->
 
 
 
