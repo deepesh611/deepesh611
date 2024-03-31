@@ -43,16 +43,16 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/926929f9-5f48-4d24-a0b3-092ccd16b893" alt="python" width="30">
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/e17f4fed-9cb3-4630-9daa-ae6eb46f3a55" alt="MySQL" width="30">
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/81a6a8ce-bf48-4aec-aa8c-a73191327cd8" alt="Java" width="30">
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" width="30">
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" width="30">
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/c7fdf2ed-6c7c-4115-9184-756277e1ff4a" alt="Terminal" width="30">
+<br>
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/222f08c5-f88c-43a6-9b5f-e5aa1cb16439" alt="C#" width="30">
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/6aaf4e9b-8484-4f89-83ce-6ededaccc168" alt="C++" width="30">
-<br>
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/926b95f2-5b19-41c9-bda3-82973a7798da" alt="HTML" width="30">
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/49828e87-9f89-40fe-8b6d-8e626987808d" alt="CSS" width="30">
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/8382ed33-d590-4c4f-9929-73e21c98fd4d" alt="JS" width="30">
 <img src="https://github.com/deepesh611/deepesh611/assets/123585104/79b96c9b-aad6-4513-841a-61558f105a8f" alt="React" width="30">
-<img src="https://github.com/deepesh611/deepesh611/assets/123585104/6e7dc304-2292-4d27-8ffc-0965bf7b2229" alt="Django" width="30">
-<img src="https://github.com/deepesh611/deepesh611/assets/123585104/51634b19-1793-48f1-b234-fafb7a18f858" alt="Node" width="30">
 <!-- <img src="" alt="" width="50"> -->
 
 <!--## Certifications
