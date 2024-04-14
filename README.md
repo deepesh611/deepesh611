@@ -26,7 +26,7 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 -->
 ## 👨‍💻 Some of my Projects:
 
-- ***Eagle Encryptor*** - A desktop application that helps in encrypting the data/content inside it and also supports multiple file formats such as `.xlsx`, `.docx`, `.jpg`, etc.<br>
+- ***Eagle Encryptor*** - A desktop application that helps in encrypting the data/contents of a file and supports multiple file formats.<br>
 [Know More...](https://github.com/deepesh611/Eagle-Encryptor)
 
 - ***University Management System*** - A simple Java project to manage the student records in a university. It uses `Swing` for GUI and `MySQL` for DB.<br>
