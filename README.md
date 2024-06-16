@@ -15,7 +15,8 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 
 ## 📊 My Stats
 
-![deepesh611's Stats](https://github-readme-stats.vercel.app/api?username=deepesh611&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh611&hide=css,scss&langs_count=8&theme=dark)
+![deepesh611's Stats](https://github-readme-stats.vercel.app/api?username=deepesh611&theme=highcontrast&show_icons=true&hide_border=false&count_private=true&show=prs_merged,prs_merged_percentage)
 <!--
 ![deepesh611's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepesh611&theme=highcontrast&hide_border=false)
 ![deepesh611's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh611&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
