@@ -41,40 +41,27 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 -->
 
 ## 🗣️ Languages
-<div>
-  <img src="https://github.com/deepesh611/deepesh611/assets/123585104/926929f9-5f48-4d24-a0b3-092ccd16b893" alt="python" width="35">
-  <img src="https://github.com/deepesh611/deepesh611/assets/123585104/2c1cc5f9-bd69-431f-9f93-f72a7ac79f2c" alt="Terminal" width="35">
-  <img src="https://github.com/deepesh611/deepesh611/assets/123585104/81a6a8ce-bf48-4aec-aa8c-a73191327cd8" alt="Java" width="35">
-  <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" width="35">
-  <img src="https://github.com/deepesh611/deepesh611/assets/123585104/6aaf4e9b-8484-4f89-83ce-6ededaccc168" alt="C++" width="35">
-  <br>
-  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" width="35">
-  <img src="https://github.com/deepesh611/deepesh611/assets/123585104/926b95f2-5b19-41c9-bda3-82973a7798da" alt="HTML" width="35">
-  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="35">
-  <img src="https://github.com/deepesh611/deepesh611/assets/123585104/8382ed33-d590-4c4f-9929-73e21c98fd4d" alt="JS" width="35">
-  <img src="https://github.com/deepesh611/deepesh611/assets/123585104/79b96c9b-aad6-4513-841a-61558f105a8f" alt="React" width="35">
-  <!-- <img src="" alt="" width="50"> 
-  <img src="https://github.com/deepesh611/deepesh611/assets/123585104/222f08c5-f88c-43a6-9b5f-e5aa1cb16439" alt="C#" width="35">
-  -->
-</div>
+[![My Skills](https://skillicons.dev/icons?i=py,powershell,c,cpp,js,java,go)](https://skillicons.dev)
+
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,nextjs)](https://skillicons.dev)
+
+## Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ## 💻 Operating Systems
-<div>
-  <img src="https://seeklogo.com/images/W/windows-11-icon-logo-6C39629E45-seeklogo.com.png" alt="Win11" width="35">
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" width="35">
-  <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" width="35">
-<!--   <img src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png" alt="Arch" width="35"> -->
-</div>
+[![My Skills](https://skillicons.dev/icons?i=windows,kali,ubuntu)](https://skillicons.dev)
 
 ## 🛠️ Tools
-<div>
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,bash,vim,arduino,ros,git,github,vercel,npm,postman&perline=6)](https://skillicons.dev)
+<!-- <div>
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="35">
   <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" width="35">
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="35">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="35">
   <img src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" width="35">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="35">
-</div>
+</div> -->
 
 
 <!--## Certifications
