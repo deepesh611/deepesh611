@@ -53,7 +53,7 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 [![My Skills](https://skillicons.dev/icons?i=windows,kali,ubuntu)](https://skillicons.dev)
 
 ## 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,eclipse,bash,vim,arduino,ros,git,github,vercel,npm,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,bash,vim,arduino,ros,git,github,vercel,npm,postman&perline=6)](https://skillicons.dev)
 <!-- <div>
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="35">
   <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" width="35">
