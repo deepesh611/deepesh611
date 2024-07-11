@@ -81,7 +81,8 @@ Add your certifications here -->
 
 
 
-
+## 🏅 My Badges ...
+<img src="assets/isc2-candidate.png" width="90">
 
 
 ## 📫 Let's Chat...
