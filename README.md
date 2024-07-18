@@ -15,8 +15,9 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 
 ## 📊 My Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh611&hide=css,scss&langs_count=8&theme=dark) 
-![deepesh611's Stats](https://github-readme-stats.vercel.app/api?username=deepesh611&theme=highcontrast&show_icons=true&hide_border=false&count_private=true&show=prs_merged,prs_merged_percentage)
+![deepesh611's Stats](https://github-readme-stats.vercel.app/api?username=deepesh611&theme=highcontrast&show_icons=true&hide_border=false&count_private=true&show=prs_merged,prs_merged_percentage)<br>
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deepesh611&theme=highcontrast&hide_border=false)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh611&hide=css,scss&langs_count=6&theme=highcontrast) <br>
 <!--
 ![deepesh611's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepesh611&theme=highcontrast&hide_border=false)
 ![deepesh611's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh611&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
@@ -27,18 +28,19 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 -->
 ## 👨‍💻 Some of my Projects:
 
-- ***Eagle Encryptor*** - A desktop application that helps in encrypting the data/contents of a file and supports multiple file formats.<br>
+- ***Eagle Encryptor*** - A desktop application that encrypts the data/contents of a file and supports multiple file formats.<br>
 [Know More...](https://github.com/deepesh611/Eagle-Encryptor)
+
+- ***My Shell*** - A functional copy of the `Windows Terminal` along with proper execution of certain commands.<br>
+[Know More...](https://github.com/deepesh611/My_Shell)
+
+- ***Function Reader***  - A simple program that lists all the functions of a Python module/library along with its description that helps the user discover new ways of programming, with an option to visit its official documentation.<br>
+[Know More...](https://github.com/deepesh611/Function-Reader)
 
 - ***University Management System*** - A simple Java project to manage the student records in a university. It uses `Swing` for GUI and `MySQL` for DB.<br>
 [Know More...](https://github.com/deepesh611/University-Management-System)
 
-- ***My Shell*** - A functional copy of the shell along with proper execution of certain commands.<br>
-[Know More...](https://github.com/deepesh611/My_Shell)
 
-<!-- ***Function Reader***  - A simple Python program that lists all the functions in a module/library along with its description, with an option to open its official documentation.<br>
-[Know More...](https://github.com/deepesh611/Function-Reader)
--->
 
 ## 🗣️ Languages
 [![My Skills](https://skillicons.dev/icons?i=py,powershell,c,cpp,js,java,go)](https://skillicons.dev)
