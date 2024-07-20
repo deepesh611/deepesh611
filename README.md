@@ -37,8 +37,8 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 - ***Function Reader***  - A simple program that lists all the functions of a Python module/library along with its description that helps the user discover new ways of programming, with an option to visit its official documentation.<br>
 [Know More...](https://github.com/deepesh611/Function-Reader)
 
-- ***University Management System*** - A simple Java project to manage the student records in a university. It uses `Swing` for GUI and `MySQL` for DB.<br>
-[Know More...](https://github.com/deepesh611/University-Management-System)
+- ***Shell Password Manager*** - A simple password manager made with Shell Scripting.<br>
+[Know More...](https://github.com/deepesh611/Shell-Password-Manager)
 
 
 
