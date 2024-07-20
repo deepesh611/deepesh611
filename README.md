@@ -34,7 +34,7 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 - ***My Shell*** - A functional copy of the `Windows Terminal` along with proper execution of certain commands.<br>
 [Know More...](https://github.com/deepesh611/My_Shell)
 
-- ***Shell Password Manager*** - A simple password manager made with Shell Scripting.<br>
+- ***Shell Password Manager*** - A simple password manager made with `Shell Scripting`.<br>
 [Know More...](https://github.com/deepesh611/Shell-Password-Manager)
 
 - ***Function Reader***  - A simple program that lists all the functions of a Python module/library along with its description that helps the user discover new ways of programming, with an option to visit its official documentation.<br>
