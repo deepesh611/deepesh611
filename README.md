@@ -5,11 +5,11 @@
 
 # Hi there, I'm Deepesh! :wave:
 
-I'm a programmer, very passionate about innovation and pushing the boundaries of technology. My interests span across various domains, from 🛡️ Cyber Security & 🚁 Drone Technology to 🕶️ VR tech, and I'm always eager to explore the latest advancements in these fields.
+I'm a very passionate programmer. I am intrested in domains like 🛡️ Cyber Security & 🌐 Network Administration , and I'm always eager to explore the latest advancements in these fields.
 
-When I'm not immersed in code or working on projects, you'll often find me behind the wheel 🚗, enjoying the freedom of the open road, or indulging in gaming, whether indoors 🎮 or outdoors 🌳. I thrive on the thrill of virtual worlds and real-life adventures, constantly seeking new experiences to broaden my horizons.
+When I'm not working on projects, you'll often find me behind the wheel 🚗, enjoying the freedom of the open road, or indulging in gaming, whether indoors 🎮 or outdoors 🌳. I thrive on the thrill of virtual worlds and real-life adventures, constantly seeking new experiences.
 
-With a natural talent for building relationships and fostering teamwork, I bring strong leadership 💼 and management skills honed through my experiences. I'm a huge anime, always looking for captivating new series to dive into!
+With a natural talent for building relationships and fostering teamwork, I also have leadership 💼 and management skills. I'm a huge anime, always looking for captivating new series to dive into!
 
 Let's connect and collaborate on exciting projects together! Feel free to reach out—I'm always up for a chat or to embark on new adventures in the world of technology. ✌️
 
