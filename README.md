@@ -44,7 +44,7 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 
 
 ## 🗣️ Languages
-[![My Skills](https://skillicons.dev/icons?i=py,powershell,c,cpp,js,java,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,bash,c,powershell,cpp,js,java)](https://skillicons.dev)
 
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,nextjs)](https://skillicons.dev)
