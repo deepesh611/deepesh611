@@ -3,6 +3,7 @@
 
 -->
 
+
 # Hi there, I'm Deepesh! :wave:
 
 I'm a very passionate programmer. I am intrested in domains like 🛡️ Cyber Security & 🌐 Network Administration , and I'm always eager to explore the latest advancements in these fields.
@@ -78,4 +79,9 @@ Add your certifications here -->
 [linkedin]: https://www.linkedin.com/in/deepesh-patil-103a87258/
 
 <br><br><br>
-<img src="https://komarev.com/ghpvc/?username=deepesh611&label=Visitors&color=0e75b6&style=flat" alt="Codeguruu03" />
+<img src="https://komarev.com/ghpvc/?username=deepesh611&label=Visitors&color=0e75b6" alt="Visitors" />
+
+
+
+
+
