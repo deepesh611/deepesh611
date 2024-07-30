@@ -78,4 +78,4 @@ Add your certifications here -->
 [linkedin]: https://www.linkedin.com/in/deepesh-patil-103a87258/
 
 <br><br><br>
-<img src="https://komarev.com/ghpvc/?username=deepesh611&label=Profile%20views&color=0e75b6&style=flat" alt="Codeguruu03" />
+<img src="https://komarev.com/ghpvc/?username=deepesh611&label=Visitors&color=0e75b6&style=flat" alt="Codeguruu03" />
