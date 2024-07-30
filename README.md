@@ -77,4 +77,5 @@ Add your certifications here -->
 [instagram]: https://www.instagram.com/_deepesh_v.p/?next=%2F
 [linkedin]: https://www.linkedin.com/in/deepesh-patil-103a87258/
 
-
+<br><br><br>
+<img src="https://komarev.com/ghpvc/?username=deepesh611&label=Profile%20views&color=0e75b6&style=flat" alt="Codeguruu03" />
