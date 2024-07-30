@@ -48,7 +48,7 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 [![My Skills](https://skillicons.dev/icons?i=py,bash,c,powershell,cpp,js,java)](https://skillicons.dev)
 
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs)](https://skillicons.dev)
 
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
