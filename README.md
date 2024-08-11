@@ -59,13 +59,15 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 ## 🛠️ Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,bash,vim,arduino,git,github,vercel,npm,postman,ros&perline=6)](https://skillicons.dev)
 
-<!--## Certifications
-Add your certifications here -->
+## Miscellaneous Tech.
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="arduino" width="45"/>
+<img src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32" alt="Rpi" width='45'/>
+<img src="./assets/Jetson.png" alt="jetson" width = "45" />
 
 
 
 ## 🏅 My Badges ...
-<img src="assets/isc2-candidate.png" width="90">
+<img src="./assets/isc2-candidate.png" width="90">
 
 
 ## 📫 Let's Chat...
