@@ -5,7 +5,7 @@ I'm a very passionate programmer. I am intrested in domains like 🛡️ Cyber S
 
 When I'm not working on projects, you'll often find me behind the wheel 🚗, enjoying the freedom of the open road, or indulging in gaming, whether indoors 🎮 or outdoors 🌳. I thrive on the thrill of virtual worlds and real-life adventures, constantly seeking new experiences.
 
-With a natural talent for building relationships and fostering teamwork, I also have leadership 💼 and management skills. I'm a huge anime, always looking for captivating new series to dive into!
+With a natural talent for building relationships and fostering teamwork, I also have leadership 💼 and management skills. I'm a huge fan of anime, always looking for captivating new series to dive into!
 
 Let's connect and collaborate on exciting projects together! Feel free to reach out—I'm always up for a chat or to embark on new adventures in the world of technology. ✌️
 
