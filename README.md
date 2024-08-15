@@ -1,12 +1,7 @@
-<!--
-**deepesh611/deepesh611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
-
 
 # Hi there, I'm Deepesh! :wave:
 
-I'm a very passionate programmer. I am intrested in domains like 🛡️ Cyber Security & 🌐 Network Administration , and I'm always eager to explore the latest advancements in these fields.
+I'm a very passionate programmer. I am intrested in domains like 🛡️ Cyber Security & 🌐 Network Engineering , and I'm always eager to explore the latest advancements in these fields.
 
 When I'm not working on projects, you'll often find me behind the wheel 🚗, enjoying the freedom of the open road, or indulging in gaming, whether indoors 🎮 or outdoors 🌳. I thrive on the thrill of virtual worlds and real-life adventures, constantly seeking new experiences.
 
@@ -14,19 +9,14 @@ With a natural talent for building relationships and fostering teamwork, I also 
 
 Let's connect and collaborate on exciting projects together! Feel free to reach out—I'm always up for a chat or to embark on new adventures in the world of technology. ✌️
 
+You can view my profile [here...](https://deepesh-patil.vercel.app/)
+
 ## 📊 My Stats
 
 ![deepesh611's Stats](https://github-readme-stats.vercel.app/api?username=deepesh611&theme=highcontrast&show_icons=true&hide_border=false&count_private=true&show=prs_merged,prs_merged_percentage)<br>
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deepesh611&theme=highcontrast&hide_border=false)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh611&hide=css,scss&langs_count=6&theme=highcontrast) <br>
-<!--
-![deepesh611's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepesh611&theme=highcontrast&hide_border=false)
-![deepesh611's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh611&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
-[![deepesh611's GitHub Stats](https://stats.quine.sh/deepesh611/github?theme=dark)](https://github.com/deepesh611) 
-[![deepesh611's GitHub Dependencies](https://stats.quine.sh/deepesh611/dependencies?theme=dark)](https://github.com/deepesh611)
-[![deepesh611's GitHub Topics Over Time](https://stats.quine.sh/deepesh611/topics-over-time?theme=dark)](https://github.com/deepesh611)
-[![deepesh611's GitHub Languages Over Time](https://stats.quine.sh/deepesh611/languages-over-time?theme=dark)](https://github.com/deepesh611)
--->
+
 ## 👨‍💻 Some of my Projects:
 
 - ***Eagle Encryptor*** - A desktop application that encrypts the data/contents of a file and supports multiple file formats.<br>
