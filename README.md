@@ -50,10 +50,11 @@ You can view my profile [here...](https://deepesh-patil.vercel.app/)
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,bash,vim,arduino,git,github,vercel,npm,postman,ros&perline=6)](https://skillicons.dev)
 
 ## Miscellaneous Tech.
+<div>
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="arduino" width="45"/>
 <img src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32" alt="Rpi" width='45'/>
 <img src="./assets/Jetson.png" alt="jetson" width = "45" />
-
+</div>
 
 
 ## 🏅 My Badges ...
