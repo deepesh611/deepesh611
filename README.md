@@ -1,15 +1,15 @@
 
-# Hi there, I'm Deepesh! :wave:
+# Hi there, I'm Deepesh! :wave: 
 
 I'm a very passionate programmer. I am intrested in domains like 🛡️ Cyber Security & 🌐 Network Engineering , and I'm always eager to explore the latest advancements in these fields.
 
 When I'm not working on projects, you'll often find me behind the wheel 🚗, enjoying the freedom of the open road, or indulging in gaming, whether indoors 🎮 or outdoors 🌳. I thrive on the thrill of virtual worlds and real-life adventures, constantly seeking new experiences.
 
-With a natural talent for building relationships and fostering teamwork, I also have leadership 💼 and management skills. I'm a huge anime, always looking for captivating new series to dive into!
+With a natural talent for building relationships and fostering teamwork, I also have leadership 💼 and management skills. I'm a huge fan of anime, always looking for captivating new series to dive into!
 
 Let's connect and collaborate on exciting projects together! Feel free to reach out—I'm always up for a chat or to embark on new adventures in the world of technology. ✌️
 
-You can view my profile [here...](https://deepesh-patil.vercel.app/)
+[View my Portfolio here...](https://deepesh-patil.vercel.app/)
 
 ## 📊 My Stats
 
@@ -50,10 +50,11 @@ You can view my profile [here...](https://deepesh-patil.vercel.app/)
 [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea,bash,vim,arduino,git,github,vercel,npm,postman,ros&perline=6)](https://skillicons.dev)
 
 ## Miscellaneous Tech.
+<div>
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="arduino" width="45"/>
 <img src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32" alt="Rpi" width='45'/>
 <img src="./assets/Jetson.png" alt="jetson" width = "45" />
-
+</div>
 
 
 ## 🏅 My Badges ...
