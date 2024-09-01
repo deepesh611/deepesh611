@@ -9,29 +9,15 @@ With a natural talent for building relationships and fostering teamwork, I also 
 
 Let's connect and collaborate on exciting projects together! Feel free to reach out—I'm always up for a chat or to embark on new adventures in the world of technology. ✌️
 
-[View my Portfolio here...](https://deepesh-patil.vercel.app/)
+## Explore my Work:
+- [Portfolio](https://deepesh-patil.vercel.app/)
+- [Github Profile](https://deepesh611.vercel.app/)
 
 ## 📊 My Stats
 
 ![deepesh611's Stats](https://github-readme-stats.vercel.app/api?username=deepesh611&theme=highcontrast&show_icons=true&hide_border=false&count_private=true&show=prs_merged,prs_merged_percentage)<br>
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=deepesh611&theme=highcontrast&hide_border=false)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh611&hide=css,scss&langs_count=6&theme=highcontrast) <br>
-
-## 👨‍💻 Some of my Projects:
-
-- ***Eagle Encryptor*** - A desktop application that encrypts the data/contents of a file and supports multiple file formats.<br>
-[Know More...](https://github.com/deepesh611/Eagle-Encryptor)
-
-- ***My Shell*** - A functional copy of the `Windows Terminal` along with proper execution of certain commands.<br>
-[Know More...](https://github.com/deepesh611/My_Shell)
-
-- ***Shell Password Manager*** - A simple password manager made with `Shell Scripting`.<br>
-[Know More...](https://github.com/deepesh611/Shell-Password-Manager)
-
-- ***Function Reader***  - A simple program that lists all the functions of a Python module/library along with its description that helps the user discover new ways of programming, with an option to visit its official documentation.<br>
-[Know More...](https://github.com/deepesh611/Function-Reader)
-
-
 
 
 ## 🗣️ Languages
