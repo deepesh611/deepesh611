@@ -45,8 +45,8 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 
 ## 🏅 My Badges ...
 <div>
-<img src="./assets/isc2-candidate.png" width="90">
 <img src="./assets/opswat-introduction-to-critical-infrastructure-protection-icip.png" width="90"> 
+<img src="./assets/isc2-candidate.png" width="90">
 </div>
 
 ## 📫 Let's Chat...
