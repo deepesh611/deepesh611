@@ -10,8 +10,8 @@ With a natural talent for building relationships and fostering teamwork, I also 
 Let's connect and collaborate on exciting projects together! Feel free to reach out—I'm always up for a chat or to embark on new adventures in the world of technology. ✌️
 
 ## Explore my Work:
-- [Portfolio](https://deepesh-patil.vercel.app/)
-- [Github Profile](https://deepesh611.vercel.app/)
+- [Portfolio Website](https://deepesh-patil.vercel.app/)
+- [Github Profile Website](https://deepesh611.vercel.app/)
 
 ## 📊 My Stats
 
