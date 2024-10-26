@@ -48,7 +48,7 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
   <img src="./assets/opswat-introduction-to-critical-infrastructure-protection-icip.png" width="90"> 
   <img src="./assets/isc2-candidate.png" width="90">
   <br>
-  <img  src="https://tryhackme-badges.s3.amazonaws.com/deepesh611.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/deepesh611.png" alt="Your Image Badge" />
 </div>
 
 ## 📫 Let's Chat...
