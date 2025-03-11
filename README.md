@@ -9,9 +9,9 @@ With a natural talent for building relationships and fostering teamwork, I also 
 
 Let's connect and collaborate on exciting projects together! Feel free to reach out—I'm always up for a chat or to embark on new adventures in the world of technology. ✌️
 
-## Explore my Work:
-- [Portfolio Website](https://deepesh-patil.vercel.app/)
-- [Github Profile Website](https://deepesh611.vercel.app/)
+## 🚀 Explore My Work
+- [Portfolio Website](https://deepesh-patil.vercel.app/) – A showcase of my projects, skills, and experience.
+- [Github Profile Website](https://deepesh611.vercel.app/) – Dive into my repositories, open-source contributions, and tech experiments.
 
 ## 📊 My Stats
 
@@ -46,8 +46,9 @@ Let's connect and collaborate on exciting projects together! Feel free to reach 
 <div>
   <img src="./assets/opswat-introduction-to-critical-infrastructure-protection-icip.png" width="90"> 
   <img src="./assets/isc2-candidate.png" width="90">
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-coffee-0-0-0.webp" width="90">
   <br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/deepesh611.png" alt="Your Image Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/deepesh611.png" alt="thm" />
 </div>
 
 ## 📫 Let's Chat...
