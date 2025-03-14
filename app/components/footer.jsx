@@ -16,7 +16,7 @@ function Footer() {
             © GitHub Portfolio by{" "}
             <Link
               target="_blank"
-              href={userData.linkedIn}
+              href={"https://deepesh-patil.vercel.app/"}
               className="text-primary-icon"
             >
               Deepesh Patil

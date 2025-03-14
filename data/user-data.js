@@ -6,16 +6,16 @@ export const userData = {
   resume:"https://drive.google.com/file/d/1wt-UMJntDhhpOCZXEAIxI0PUjQBt5BQu/view?usp=sharing",
   languages: [
     "Python",
+    "Java",
     "SQL",
     "Shell",
     "C++",
     "C",
     "HTML5",
     "JavaScript",
-    "Java",
   ],
   frameworks: [
-    "React",
+    "ReactJS",
     "NodeJS",
     "NextJS",
     "TailwindCSS",
@@ -23,12 +23,14 @@ export const userData = {
   tools: [
     "Git",
     "GitHub",
+    "Docker",
     "Vercel",
     "Postman",
     "GitKraken",
     "Cloudinary",
   ],
   course_work: [
+    "Cloud Computing",
     "Computer Networks",
     "Cyber Security",
     "Database Management Systems",
