@@ -17,6 +17,8 @@ Let’s connect and collaborate! I'm always open to new opportunities and exciti
 - [Portfolio Website](https://deepesh-patil.vercel.app/) – A showcase of my projects, skills, and experience.
 - [Github Profile Website](https://deepesh611.vercel.app/) – Dive into my repositories, open-source contributions, and tech experiments.
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## 📊 My Stats
 
 ![deepesh611's Stats](https://github-readme-stats.vercel.app/api?username=deepesh611&theme=highcontrast&show_icons=true&hide_border=false&count_private=true&show=prs_merged,prs_merged_percentage)<br>
