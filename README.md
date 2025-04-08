@@ -26,7 +26,7 @@ Let’s connect and collaborate! I'm always open to new opportunities and exciti
 
 
 ## 🗣️ Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,go,bash,cpp,powershell,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,go,js,cpp,powershell,bash)](https://skillicons.dev)
 
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,nextjs,react,tailwind)](https://skillicons.dev)
@@ -38,7 +38,7 @@ Let’s connect and collaborate! I'm always open to new opportunities and exciti
 [![My Skills](https://skillicons.dev/icons?i=windows,kali,ubuntu,redhat,arch)](https://skillicons.dev)
 
 ## 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=pycharm,idea,bash,neovim,arduino,git,github,vercel,aws,azure,qt,ros&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,idea,nodejs,neovim,arduino,git,github,vercel,aws,azure,qt,ros&perline=6)](https://skillicons.dev)
 
 ## Miscellaneous Tech.
 <div>
