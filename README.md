@@ -1,4 +1,4 @@
-<img src="./assets/background.png"/>
+<img src="./assets/Background.png"/>
 
 # Hi there, I'm Deepesh! :wave: 
 
