@@ -55,7 +55,7 @@ Let’s connect and collaborate! I'm always open to new opportunities and exciti
   <img src="./assets/isc2-candidate.png" width="90">
   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-coffee-0-0-0.webp" width="90">
   <br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/deepesh611.png" alt="thm" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/deepesh611.png" alt="deepesh611" />
 </div>
 
 ## 📫 Let's Chat...
