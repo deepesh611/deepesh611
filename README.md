@@ -51,14 +51,14 @@ Let’s connect and collaborate! I'm always open to new opportunities and exciti
 
 ## 🏅 My Badges ...
 <div>
-  <img src="https://api.boot.dev/v1/users/public/3cc33ecc-0bb6-4118-a6a6-b5e4adb2ca8c/thumbnail" >
-  <br>
   <img src="./assets/opswat-introduction-to-critical-infrastructure-protection-icip.png" width="90"> 
   <img src="./assets/isc2-candidate.png" width="90">
   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-coffee-0-0-0.webp" width="90">
 <img src="./assets/linux-unhatched.png" width="90">
 <br>
   <img src="https://tryhackme-badges.s3.amazonaws.com/deepesh611.png" alt="deepesh611" />
+  <br>
+  <img src="https://api.boot.dev/v1/users/public/3cc33ecc-0bb6-4118-a6a6-b5e4adb2ca8c/thumbnail" >
 </div>
 
 ## 📫 Let's Chat...
