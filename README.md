@@ -39,7 +39,7 @@ Let’s connect and collaborate! I'm always open to new opportunities and exciti
 [![My Skills](https://skillicons.dev/icons?i=windows,kali,ubuntu,redhat,arch)](https://skillicons.dev)
 
 ## 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=pycharm,idea,github,nodejs,neovim,arduino,git,aws,azure,docker,ros,obsidian&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm,github,nodejs,neovim,arduino,ansible,git,aws,azure,docker,ros,obsidian&perline=6)](https://skillicons.dev)
 
 ## Miscellaneous Tech.
 <div>
