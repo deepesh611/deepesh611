@@ -17,7 +17,7 @@ Beyond tech, I enjoy **leading teams**, managing projects, and building strong c
 - 🌐 [**Portfolio Website**](https://deepesh-patil.vercel.app/) — Projects, skills, and experiences.
 - 💻 [**GitHub Profile Website**](https://deepesh611.vercel.app/) — Repos, open-source contributions, and experiments.
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
