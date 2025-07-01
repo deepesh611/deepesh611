@@ -51,6 +51,8 @@ Let’s connect and collaborate! I'm always open to new opportunities and exciti
 
 ## 🏅 My Badges ...
 <div>
+  <img src="https://github-profile-trophy.vercel.app/?username=deepesh611&theme=darkhub&column=10">
+  <br><br>
   <img src="./assets/opswat-introduction-to-critical-infrastructure-protection-icip.png" width="90"> 
   <img src="./assets/isc2-candidate.png" width="90">
   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-coffee-0-0-0.webp" width="90">
