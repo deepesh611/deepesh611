@@ -1,3 +1,4 @@
+
 <img src="./assets/Background.png" alt="Banner"/>
 
 # 👋 Hi there, I'm Deepesh!
@@ -81,7 +82,11 @@ Beyond tech, I enjoy **leading teams**, managing projects, and building strong c
 [<img align="left" alt="Twitter" width="35px" src="./assets/twitter.gif" />][twitter]
 
 <br><br><br>
-<img src="https://komarev.com/ghpvc/?username=deepesh611&label=Visitors&color=0e75b6" alt="Visitor badge" />
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/deepesh611/count.svg" />
+</p>
 
 ---
 
