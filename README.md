@@ -28,8 +28,8 @@ Beyond tech, I enjoy **leading teams**, managing projects, and building strong c
 
 ## 📊 My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepesh611&theme=highcontrast&show_icons=true&count_private=true" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh611&hide=css,scss,jupyter%20notebook&langs_count=6&theme=highcontrast&layout=compact" width="380"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepesh611&theme=highcontrast&show_icons=true&count_private=true" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh611&hide=css,scss,jupyter%20notebook&langs_count=6&theme=highcontrast&layout=compact" width="280"/>
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepesh611&theme=react-dark"/>
 </div>
