@@ -1,16 +1,16 @@
+<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE0ODU1NzUsIm5iZiI6MTc1MTQ4NTI3NSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzAyVDE5NDExNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI5YTJkNmFiOTgwMWQyNjlmODE5YmNhZWMwZjk5OGEzYzMzODMxMDM1NGI5NzBiN2RlMDY5NWY4OGE4ZGIyOTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8ygUzGRN4W8T0yK2LExK-t6z_Y6LtGIENnLrgZ-FSzE" alt="Banner"/><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-<img src="./assets/Background.png" alt="Banner"/>
 
-  <h3 align="center">
-   👋 Hi there, I'm Deepesh.
-  </h3>
+  <h1 align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40"/> Hi there, I'm Deepesh.
+  </h1>
 
-  <p align="center">
-    <a href="https://deepesh-patil.vercel.app/">Portfolio</a> •
-    <a href="https://deepesh611.vercel.app/">Github Profile</a>
-  </p>
+  <h2 align="center">
+    • <a href="https://deepesh-patil.vercel.app/">Portfolio</a> •
+    <a href="https://deepesh611.vercel.app/">Github Profile</a> •
+  </h2>
 
----
 
 I’m a passionate programmer deeply into **Cloud Computing ☁️, DevOps ♾️, and Network Engineering 🌐**. I love exploring new tech, pushing boundaries, and solving challenging problems with creative strategies.
 
