@@ -1,7 +1,16 @@
 
 <img src="./assets/Background.png" alt="Banner"/>
 
-# 👋 Hi there, I'm Deepesh!
+  <h3 align="center">
+   👋 Hi there, I'm Deepesh.
+  </h3>
+
+  <p align="center">
+    <a href="https://deepesh-patil.vercel.app/">Portfolio</a> •
+    <a href="https://deepesh611.vercel.app/">GitHub Profile</a>
+  </p>
+
+---
 
 I’m a passionate programmer deeply into **Cloud Computing ☁️, DevOps ♾️, and Network Engineering 🌐**. I love exploring new tech, pushing boundaries, and solving challenging problems with creative strategies.
 
@@ -13,19 +22,18 @@ Beyond tech, I enjoy **leading teams**, managing projects, and building strong c
 
 ---
 
-## 🚀 Explore My Work
-
-- 🌐 [**Portfolio Website**](https://deepesh-patil.vercel.app/) — Projects, skills, and experiences.
-- 💻 [**GitHub Profile Website**](https://deepesh611.vercel.app/) — Repos, open-source contributions, and experiments.
-
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
 ## 📊 My Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepesh611&theme=highcontrast&show_icons=true&count_private=true" width="525"/>&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh611&hide=css,scss,jupyter%20notebook&langs_count=6&theme=highcontrast&layout=compact" width="400"/>
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepesh611&theme=react-dark"/>
+</div>
 
-![Deepesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepesh611&theme=highcontrast&show_icons=true&count_private=true)<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh611&hide=css,scss,jupyter%20notebook&langs_count=6&theme=highcontrast)
 
 ---
 
@@ -45,6 +53,7 @@ Beyond tech, I enjoy **leading teams**, managing projects, and building strong c
 
 ### ⚙️ Tools
 [![My Skills](https://skillicons.dev/icons?i=pycharm,github,nodejs,neovim,arduino,ansible,git,aws,azure,docker,ros,obsidian&perline=6)](https://skillicons.dev)
+
 
 ---
 
@@ -84,7 +93,7 @@ Beyond tech, I enjoy **leading teams**, managing projects, and building strong c
 <br><br><br>
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor Count<br><br>
   <img src="https://profile-counter.glitch.me/deepesh611/count.svg" />
 </p>
 
