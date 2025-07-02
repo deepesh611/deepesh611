@@ -53,6 +53,9 @@ Beyond tech, I enjoy **leading teams**, managing projects, and building strong c
 
 ### ⚙️ Tools
 [![My Skills](https://skillicons.dev/icons?i=pycharm,github,nodejs,neovim,arduino,ansible,git,aws,azure,docker,ros,obsidian&perline=6)](https://skillicons.dev)
+<br>
+<img src="assets/svg/n8n.svg" width=50/>
+<img src="assets/svg/zapier.svg" width=50/>
 
 
 ---
