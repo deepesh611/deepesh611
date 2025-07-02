@@ -49,7 +49,7 @@ Beyond tech, I enjoy **leading teams**, managing projects, and building strong c
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ### 💻 Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,redhat,arch,kali)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,redhat,arch,ubuntu)](https://skillicons.dev)
 
 ### ⚙️ Tools
 [![My Skills](https://skillicons.dev/icons?i=pycharm,github,nodejs,neovim,arduino,ansible,git,aws,azure,docker,ros,obsidian&perline=6)](https://skillicons.dev)
