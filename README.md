@@ -7,7 +7,7 @@
 
   <p align="center">
     <a href="https://deepesh-patil.vercel.app/">Portfolio</a> •
-    <a href="https://deepesh611.vercel.app/">GitHub Profile</a>
+    <a href="https://deepesh611.vercel.app/">Github Profile</a>
   </p>
 
 ---
