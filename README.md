@@ -74,7 +74,7 @@ Beyond tech, I enjoy **leading teams**, managing projects, and building strong c
 ## 🏅 Achievements & Badges
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=deepesh611&theme=darkhub&column=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=deepesh611&theme=darkhub&column=9" alt="Trophies"/>
   <br><br>
   <img src="./assets/opswat-introduction-to-critical-infrastructure-protection-icip.png" width="90" alt="ICIP Badge"/> 
   <img src="./assets/isc2-candidate.png" width="90" alt="ISC2 Candidate"/>
