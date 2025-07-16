@@ -98,10 +98,10 @@ Beyond tech, I enjoy **leading teams**, managing projects, and building strong c
 
 <br><br><br>
 
-<p align="center"> 
-  Visitor Count<br><br>
-  <img src="https://profile-counter.glitch.me/deepesh611/count.svg" />
-</p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=deepesh611&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/deepesh611?style=flat-square&color=blue&labelColor=gray" alt="GitHub Followers" />
+  </p>
 
 ---
 
