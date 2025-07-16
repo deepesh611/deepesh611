@@ -81,6 +81,7 @@ Beyond tech, I enjoy **leading teams**, managing projects, and building strong c
   <img src="./assets/isc2-candidate.png" width="90" alt="ISC2 Candidate"/>
   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-coffee-0-0-0.webp" width="90" alt="Holopin Sloth"/>
   <img src="./assets/linux-unhatched.png" width="90" alt="Linux Unhatched"/>
+  <img src="https://media.badgr.com/uploads/badges/assertion-vyZsFWkgRCWUryUaSLe64w.png?versionId=x5Dc5KZdCF5v_rFaELuZXbT22IXmnHJs" alt="postman badge" width="90" />
   <br><br>
   <img src="https://tryhackme-badges.s3.amazonaws.com/deepesh611.png" alt="TryHackMe Badge"/>
   <br><br>
