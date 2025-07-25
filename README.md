@@ -48,15 +48,16 @@ Beyond tech, I enjoy **leading teams**, managing projects, and building strong c
 ### 🎨 Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind)](https://skillicons.dev)
 
-### 🗄️ Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+### 🗄️ Backend
+[![My Skills](https://skillicons.dev/icons?i=supabase,mysql,mongodb,postgres)](https://skillicons.dev)
 
 ### 💻 Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=windows,redhat,arch,ubuntu)](https://skillicons.dev)
 
 ### ⚙️ Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,git,pycharm,neovim,aws,arduino,ansible,github,nodejs,obsidian,azure,ros&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,postman,git,aws,arduino,kubernetes,ansible,github,nodejs,obsidian&perline=5)](https://skillicons.dev)
 <br>
+<img src="assets/svg/podman.svg" width=50>
 <img src="assets/svg/n8n.svg" width=50>
 
 
