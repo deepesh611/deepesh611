@@ -77,6 +77,7 @@ Beyond tech, I enjoy **leading teams**, managing projects, and building strong c
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=deepesh611&theme=darkhub&column=9" alt="Trophies"/>
   <br><br>
+  <img src="assets/aws-cloud-quest-cloud-practitioner.png" width="90" />
   <img src="./assets/opswat-introduction-to-critical-infrastructure-protection-icip.png" width="90" alt="ICIP Badge"/> 
   <img src="./assets/isc2-candidate.png" width="90" alt="ISC2 Candidate"/>
   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-coffee-0-0-0.webp" width="90" alt="Holopin Sloth"/>
