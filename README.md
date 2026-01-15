@@ -1,25 +1,19 @@
 <br>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3AxYnMycnV1aGQ4dW9ieDdqMjV3c2x6eW9sdjZrcnA3azh5dGQyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGGDNsLvqsBOhuU0/giphy.gif" width="850" height="300"/>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-
-  <h1 align="center">
-   <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40"/> Hi there, I'm Deepesh.
-  </h1>
+![banner](assets/banner.png)
 
   <h2 align="center">
-    • <a href="https://deepesh-patil.vercel.app/">Portfolio</a> •
-    <a href="https://deepesh611.vercel.app/">Github Profile</a> •
+    <a href="https://deepesh-patil.vercel.app/">Portfolio</a> • 
+    <a href="https://deepesh611.vercel.app/">GitHub Analytics</a>
   </h2>
 
+I'm a passionate programmer specializing in **Cloud Computing ☁️, DevOps ♾️, and Network Engineering 🌐**. I thrive on building scalable systems, automating infrastructure, and tackling complex distributed computing challenges.
 
-I’m a passionate programmer deeply into **Cloud Computing ☁️, DevOps ♾️, and Network Engineering 🌐**. I love exploring new tech, pushing boundaries, and solving challenging problems with creative strategies.
-
-When I’m not coding, you'll likely find me:
+When I'm not coding, you'll likely find me:
 - 🚗 **Driving** — Nothing beats the thrill of the open road.
 - 🎮 **Gaming** — Virtual battles or real-life adventures, always up for a challenge.
 
-Beyond tech, I enjoy **leading teams**, managing projects, and building strong connections. Whether through code, teamwork, or strategy — I always find a way to solve problems.
+Beyond tech, I enjoy leading teams and managing projects that bridge the gap between innovative ideas and real-world solutions.
 
 ---
 
@@ -29,9 +23,10 @@ Beyond tech, I enjoy **leading teams**, managing projects, and building strong c
 
 ## 📊 My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepesh611&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepesh611&hide=css,scss,jupyter%20notebook&langs_count=6&theme=highcontrast&layout=compact" width="300"/>
-  <br><br>
+
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=deepesh611&show_icons=true&theme=github_dark&show=discussions_started)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=deepesh611&theme=github_dark)
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepesh611&theme=react-dark"/>
 </div>
 
