@@ -60,7 +60,6 @@ Beyond tech, I enjoy leading teams and managing projects that bridge the gap bet
 ### ⚙️ Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,postman,git,aws,arduino,kubernetes,ansible,github,nodejs,obsidian&perline=5)](https://skillicons.dev)
 <br>
-<img src="assets/svg/n8n.svg" width=50>
 
 
 ---
