@@ -28,31 +28,32 @@ async function getGitProfile() {
   }
 }
 
-// Fetch GitHub projects data
+// Fetch GitHub projects data - MANUAL SELECTION
 async function getGitProjects() {
   try {
-    const res = await fetch(
-      `https://api.github.com/search/repositories?q=user:${userData.githubUser}+fork:true&sort=stars&per_page=10&type=Repositories`,
-      {
+    // Define the repositories you want to showcase (in order of appearance)
+    const reposToShow = [
+      "AetherStore",
+      "Abacus-Insights-Hackathon",
+      "Video-Summary-Generator",
+      "Home-Server",
+      "NPi-Cluster",
+      "DBMS-with-n8n",
+      "Minor-Project-DDoS-on-Cloud",
+      "My_Shell"
+    ];
+
+    // Fetch each repository individually to maintain order
+    const projectPromises = reposToShow.map(repoName =>
+      fetch(`https://api.github.com/repos/${userData.githubUser}/${repoName}`, {
         cache: "no-cache",
-      }
+      }).then(res => res.ok ? res.json() : null)
     );
 
-    if (!res.ok) {
-      throw new Error("Failed to fetch GitHub repositories");
-    }
-
-    const data = await res.json();
-
-    // Define the repositories you want to ignore
-    const reposToIgnore = ["deepesh611"];
-
-    // Filter out the unwanted repositories
-    const filteredRepos = data.items.filter(
-      (repo) => !reposToIgnore.includes(repo.name)
-    );
-
-    return filteredRepos;
+    const projects = await Promise.all(projectPromises);
+    
+    // Filter out any failed fetches (null values)
+    return projects.filter(project => project !== null);
   } catch (error) {
     console.error("Error fetching GitHub repositories:", error);
     return []; // Return an empty array to handle errors gracefully

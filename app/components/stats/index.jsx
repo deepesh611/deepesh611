@@ -15,6 +15,27 @@ function GitStats() {
       <SectionTitle title="GitHub Statistics" />
 
       <div className="py-8 grid grid-cols-1 md:grid-cols-2 gap-5">
+
+        <>
+          <GlowCard identifier="github-stats">
+            <img src={`https://github-readme-stats-fast.vercel.app/api?username=${userData.githubUser}&theme=algolia&show_icons=true&hide_border=true&count_private=true`}
+              width={1080}
+              height={520}
+              alt="github stats"
+            />
+          </GlowCard>
+          
+          <GlowCard identifier="github-stats-2">
+            <img
+              src={`https://github-readme-stats-fast.vercel.app/api/streak?username=${userData.githubUser}&theme=algolia&show_icons=true`}
+              width={1080}
+              height={520}
+              alt="github stats"
+              className="rounded-lg"
+            />
+          </GlowCard>
+        </>
+
         <div className="md:col-span-2">
           <GlowCard identifier="profile-details">
             <div className="bg-primary-bg">
@@ -28,26 +49,6 @@ function GitStats() {
             </div>
           </GlowCard>
         </div>
-
-        <>
-          <GlowCard identifier="github-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=deepesh611&theme=algolia&show_icons=true&hide_border=true&count_private=true&hide=prs"
-              width={1080}
-              height={520}
-              alt="github stats"
-            />
-          </GlowCard>
-          
-          <GlowCard identifier="github-stats-2">
-            <img
-              src={`https://github-readme-stats.vercel.app/api?username=deepesh611&show=reviews,discussions_started,prs,prs_merged,prs_merged_percentage&hide=stars,commits,issues,contribs,reviews&theme=algolia&show_icons=true`}
-              width={1080}
-              height={520}
-              alt="github stats"
-              className="rounded-lg"
-            />
-          </GlowCard>
-        </>
       </div>
     </div>
   );

@@ -110,4 +110,3 @@ Beyond tech, I enjoy leading teams and managing projects that bridge the gap bet
 
 [instagram]: https://www.instagram.com/_deepesh_v.p/?next=%2F
 [linkedin]: https://www.linkedin.com/in/deepesh-patil-103a87258/
-[twitter]: https://twitter.com/DeepeshPat65731
