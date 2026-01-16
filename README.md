@@ -24,20 +24,20 @@ Beyond tech, I enjoy leading teams and managing projects that bridge the gap bet
 ## 📊 My Stats
 <div align="center">
 
-<img
-  src="https://github-readme-stats-fast.vercel.app/api?username=deepesh611&show_icons=true&theme=github_dark&show=discussions_started"
-  width="400"
-/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=deepesh611&show_icons=true&theme=github_dark&show=discussions_started"
+    width="400"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/streak?username=deepesh611&theme=github_dark"
+    width="400"
+  />
 
-<img
-  src="https://github-readme-stats-fast.vercel.app/api/streak?username=deepesh611&theme=github_dark"
-  width="400"
-/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=deepesh611&theme=react-dark"
+  />
 
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepesh611&theme=react-dark"/>
 </div>
-
 
 ---
 
