@@ -97,7 +97,6 @@ Beyond tech, I enjoy leading teams and managing projects that bridge the gap bet
 
 [<img align="left" alt="Instagram" width="35px" src="./assets/instagram.gif" />][instagram]
 [<img align="left" alt="LinkedIn" width="35px" src="./assets/linkedin.gif" />][linkedin]
-[<img align="left" alt="Twitter" width="35px" src="./assets/twitter.gif" />][twitter]
 
 <br><br><br>
 
