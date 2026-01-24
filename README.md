@@ -77,7 +77,7 @@ Beyond tech, I enjoy leading teams and managing projects that bridge the gap bet
 ## 🏅 Achievements & Badges
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=deepesh611&theme=darkhub&column=9" alt="Trophies"/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=deepesh611&theme=darkhub&column=9" alt="Trophies"/> -->
   <br><br>
   <img src="assets/aws-cloud-quest-cloud-practitioner.png" width="90" />
   <img src="./assets/opswat-introduction-to-critical-infrastructure-protection-icip.png" width="90" alt="ICIP Badge"/> 
