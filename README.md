@@ -54,8 +54,10 @@ Beyond tech, I enjoy leading teams and managing projects that bridge the gap bet
 ### 🗄️ Backend
 [![My Skills](https://skillicons.dev/icons?i=supabase,mysql,mongodb,postgres)](https://skillicons.dev)
 
+<!--
 ### 💻 Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=windows,redhat,arch,ubuntu)](https://skillicons.dev)
+-->
 
 ### ⚙️ Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,postman,git,aws,arduino,kubernetes,ansible,github,nodejs,obsidian&perline=5)](https://skillicons.dev)
