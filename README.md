@@ -81,9 +81,11 @@ Beyond tech, I enjoy leading teams and managing projects that bridge the gap bet
 <div>
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=deepesh611&theme=darkhub&column=9" alt="Trophies"/> -->
   <br><br>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/179114997" width="90" />
   <img src="assets/aws-cloud-quest-cloud-practitioner.png" width="90" />
   <img src="./assets/opswat-introduction-to-critical-infrastructure-protection-icip.png" width="90" alt="ICIP Badge"/> 
   <img src="./assets/isc2-candidate.png" width="90" alt="ISC2 Candidate"/>
+<br>
   <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-coffee-0-0-0.webp" width="90" alt="Holopin Sloth"/>
   <img src="./assets/linux-unhatched.png" width="90" alt="Linux Unhatched"/>
   <img src="https://media.badgr.com/uploads/badges/assertion-vyZsFWkgRCWUryUaSLe64w.png?versionId=x5Dc5KZdCF5v_rFaELuZXbT22IXmnHJs" alt="postman badge" width="90" />
