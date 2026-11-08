@@ -2,103 +2,100 @@
 
 ![banner](assets/banner.png)
 
-  <h2 align="center">
-    <a href="https://deepesh-patil.vercel.app/">Portfolio</a> • 
-    <a href="https://deepesh611.vercel.app/">GitHub Analytics</a>
-  </h2>
+<h2 align="center">
+  <a href="https://deepesh-patil.vercel.app/">Portfolio</a> •
+  <a href="https://deepesh611.vercel.app/">GitHub Analytics</a>
+</h2>
 
-I'm a passionate programmer specializing in **Cloud Computing ☁️, DevOps ♾️, and Network Engineering 🌐**. I thrive on building scalable systems, automating infrastructure, and tackling complex distributed computing challenges.
+Hi, I’m **Deepesh Patil**, an AI Engineer and IIIT Pune graduate. I build AI and data systems, with experience in **GenAI evaluation and observability, synthetic data generation, and Databricks**. I’m also interested in the platforms behind reliable software, including **DevOps, cloud infrastructure, and systems administration**.
 
-When I'm not coding, you'll likely find me:
-- 🚗 **Driving** — Nothing beats the thrill of the open road.
-- 🎮 **Gaming** — Virtual battles or real-life adventures, always up for a challenge.
+### What I work with
 
-Beyond tech, I enjoy leading teams and managing projects that bridge the gap between innovative ideas and real-world solutions.
+- **AI & Data:** Python, PySpark, SQL, Databricks, MLflow, Langfuse
+- **Application Development:** FastAPI, Flask, React, TypeScript
+- **Platform & Infrastructure:** Docker, Kubernetes, Terraform, AWS, CI/CD
+- **Other interests:** Linux, networking, and system administration
+
+### Outside of work
+
+- 🚗 Driving
+- 🎮 Gaming
 
 ---
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 📊 GitHub Stats
 
----
-
-## 📊 My Stats
 <div align="center">
 
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=deepesh611&show_icons=true&theme=github_dark&show=discussions_started"
     width="400"
+    alt="Deepesh's GitHub stats"
   />
   <img
     src="https://github-readme-stats-fast.vercel.app/api/streak?username=deepesh611&theme=github_dark"
     width="400"
+    alt="Deepesh's GitHub contribution streak"
   />
 
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=deepesh611&theme=react-dark"
+    alt="Deepesh's GitHub activity graph"
   />
 
 </div>
 
 ---
 
-<h2>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"/>  Skills
-</h2>
+## 🧰 Technologies
 
-### 💬 Languages
-[![My Skills](https://skillicons.dev/icons?i=py,java,go,js,cpp,bash)](https://skillicons.dev)
+### Languages
+[![Languages](https://skillicons.dev/icons?i=py,java,go,js,cpp,bash)](https://skillicons.dev)
 
-### 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind)](https://skillicons.dev)
+### Web & Backend
+[![Web and backend tools](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,mysql,mongodb,postgres)](https://skillicons.dev)
 
-### 🗄️ Backend
-[![My Skills](https://skillicons.dev/icons?i=supabase,mysql,mongodb,postgres)](https://skillicons.dev)
-
-<!--
-### 💻 Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=windows,redhat,arch,ubuntu)](https://skillicons.dev)
--->
-
-### ⚙️ Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,postman,git,aws,arduino,kubernetes,ansible,github,nodejs,obsidian&perline=5)](https://skillicons.dev)
-<br>
-
+### Cloud, DevOps & Tools
+[![Cloud and DevOps tools](https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,ansible,git,github,postman,nodejs,obsidian&perline=5)](https://skillicons.dev)
 
 ---
 
-## 🛰️ Miscellaneous Tech
+## 🔧 Hardware & Systems
 
 <div>
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="arduino" width="45"/>
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="Arduino" width="45"/>
   <img src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32" alt="Raspberry Pi" width="45"/>
-  <img src="./assets/Jetson.png" alt="Jetson" width="45"/>
+  <img src="./assets/Jetson.png" alt="NVIDIA Jetson" width="45"/>
 </div>
 
 ---
 
-## 🏅 Achievements & Badges
+## 🏅 Certifications & Badges
 
 <div>
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=deepesh611&theme=darkhub&column=9" alt="Trophies"/> -->
+  <br>
+
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/179142186" width="90" alt="Certification badge"/>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/179114997" width="90" alt="Certification badge"/>
+  <img src="assets/aws-cloud-quest-cloud-practitioner.png" width="90" alt="AWS Cloud Quest badge"/>
+  <img src="./assets/opswat-introduction-to-critical-infrastructure-protection-icip.png" width="90" alt="OPSWAT ICIP badge"/>
+  <img src="./assets/isc2-candidate.png" width="90" alt="ISC2 Candidate badge"/>
+  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-coffee-0-0-0.webp" width="90" alt="Holopin badge"/>
+  <img src="./assets/linux-unhatched.png" width="90" alt="Linux Unhatched badge"/>
+  <img src="https://media.badgr.com/uploads/badges/assertion-vyZsFWkgRCWUryUaSLe64w.png?versionId=x5Dc5KZdCF5v_rFaELuZXbT22IXmnHJs" width="90" alt="Postman badge"/>
+
   <br><br>
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/179142186" width="90"/>
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/179114997" width="90"/>
-  <img src="assets/aws-cloud-quest-cloud-practitioner.png" width="90" />
-  <img src="./assets/opswat-introduction-to-critical-infrastructure-protection-icip.png" width="90" alt="ICIP Badge"/> 
-<br>
-  <img src="./assets/isc2-candidate.png" width="90" alt="ISC2 Candidate"/>
-  <img src="https://assets.holopin.io/hf2024levels/level1-sloth-hello-coffee-0-0-0.webp" width="90" alt="Holopin Sloth"/>
-  <img src="./assets/linux-unhatched.png" width="90" alt="Linux Unhatched"/>
-  <img src="https://media.badgr.com/uploads/badges/assertion-vyZsFWkgRCWUryUaSLe64w.png?versionId=x5Dc5KZdCF5v_rFaELuZXbT22IXmnHJs" alt="postman badge" width="90" />
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/deepesh611.png" alt="TryHackMe profile badge"/>
+
   <br><br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/deepesh611.png" alt="TryHackMe Badge"/>
-  <br><br>
-  <img src="https://api.boot.dev/v1/users/public/3cc33ecc-0bb6-4118-a6a6-b5e4adb2ca8c/thumbnail" width="500" alt="Boot.dev Badge"/>
+
+  <img src="https://api.boot.dev/v1/users/public/3cc33ecc-0bb6-4118-a6a6-b5e4adb2ca8c/thumbnail" width="500" alt="Boot.dev profile badge"/>
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect
 
 [<img align="left" alt="Instagram" width="35px" src="./assets/instagram.gif" />][instagram]
 [<img align="left" alt="LinkedIn" width="35px" src="./assets/linkedin.gif" />][linkedin]
@@ -106,9 +103,9 @@ Beyond tech, I enjoy leading teams and managing projects that bridge the gap bet
 <br><br><br>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=deepesh611&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/deepesh611?style=flat-square&color=blue&labelColor=gray" alt="GitHub Followers" />
-  </p>
+  <img src="https://komarev.com/ghpvc/?username=deepesh611&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/deepesh611?style=flat-square&color=blue&labelColor=gray" alt="GitHub followers" />
+</p>
 
 ---
 
