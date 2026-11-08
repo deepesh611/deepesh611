@@ -1,13 +1,14 @@
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Deepesh Patil</h1>
 <br>
-
-![banner](assets/banner.png)
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 <h2 align="center">
   <a href="https://deepesh-patil.vercel.app/">Portfolio</a> •
   <a href="https://deepesh611.vercel.app/">GitHub Analytics</a>
 </h2>
 
-Hi, I’m **Deepesh Patil**, an AI Engineer and IIIT Pune graduate. I build AI and data systems, with experience in **GenAI evaluation and observability, synthetic data generation, and Databricks**. I’m also interested in the platforms behind reliable software, including **DevOps, cloud infrastructure, and systems administration**.
+## 📌 About Me
+An AI Engineer and IIIT Pune graduate. I build AI and data systems, with experience in **GenAI evaluation and observability, synthetic data generation, and Databricks**. I’m also interested in the platforms behind reliable software, including **DevOps, cloud infrastructure, and systems administration**.
 
 ### What I work with
 
@@ -18,7 +19,7 @@ Hi, I’m **Deepesh Patil**, an AI Engineer and IIIT Pune graduate. I build AI a
 
 ### Outside of work
 
-- 🚗 Driving
+- 🏍️ Riding
 - 🎮 Gaming
 
 ---
@@ -38,15 +39,14 @@ Hi, I’m **Deepesh Patil**, an AI Engineer and IIIT Pune graduate. I build AI a
     alt="Deepesh's GitHub contribution streak"
   />
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=deepesh611&theme=react-dark"
-    alt="Deepesh's GitHub activity graph"
-  />
+  ![GitSkins Animated Highlights](https://www.gitskins.com/api/section/highlights?username=deepesh611&theme=github-dark&style=aura)
+
+  ![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=deepesh611&theme=github-dark&style=aura)
 
 </div>
 
 ---
-
+<!--
 ## 🧰 Technologies
 
 ### Languages
@@ -69,6 +69,8 @@ Hi, I’m **Deepesh Patil**, an AI Engineer and IIIT Pune graduate. I build AI a
 </div>
 
 ---
+-->
+
 
 ## 🏅 Certifications & Badges
 
@@ -76,7 +78,7 @@ Hi, I’m **Deepesh Patil**, an AI Engineer and IIIT Pune graduate. I build AI a
   <br>
 
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/179142186" width="90" alt="Certification badge"/>
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/179114997" width="90" alt="Certification badge"/>
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/179114997" width="100" alt="Certification badge"/>
   <img src="assets/aws-cloud-quest-cloud-practitioner.png" width="90" alt="AWS Cloud Quest badge"/>
   <img src="./assets/opswat-introduction-to-critical-infrastructure-protection-icip.png" width="90" alt="OPSWAT ICIP badge"/>
   <img src="./assets/isc2-candidate.png" width="90" alt="ISC2 Candidate badge"/>
@@ -110,4 +112,4 @@ Hi, I’m **Deepesh Patil**, an AI Engineer and IIIT Pune graduate. I build AI a
 ---
 
 [instagram]: https://www.instagram.com/_deepesh_v.p/?next=%2F
-[linkedin]: https://www.linkedin.com/in/deepesh-patil-103a87258/
+[linkedin]: https://www.linkedin.com/in/deepesh-patil/
